@@ -1,1 +1,1 @@
-# coreinet
+# corenet
